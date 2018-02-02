@@ -3,6 +3,8 @@
         "iomanip": "cpp",
         "ratio": "cpp",
         "iostream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
     }
 }
